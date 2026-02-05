@@ -4,6 +4,11 @@ Este projeto serve de **template** para criar, modificar e publicar um dashboard
 
 O dashboard pode ser visto [neste link](https://deploydashboard-892glrvxysstk29ycvrtcb.streamlit.app/).
 
+As seguintes páginas são extremamente úteis para desenvolver dashbaords com o streamlit:
+- [Galeria com exemplos de dashboards](https://streamlit.io/gallery?category=favorites)
+- [Documentação dos componentes do streamlit](https://docs.streamlit.io/develop/api-reference)
+
+
 ---
 
 ## 🧰 O que vais precisar
